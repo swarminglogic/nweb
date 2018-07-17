@@ -32,6 +32,7 @@ struct {
   {"zip", "image/zip" },
   {"gz",  "image/gz"  },
   {"tar", "image/tar" },
+  {"log", "text/txt" },
   {"htm", "text/html" },
   {"html","text/html" },
   {0,0} };
